@@ -121,4 +121,4 @@ print(ord("a"))#97
 print('123'.isdecimal()) #True
 print('123'.isdigit()) #True
 print('12.3'.isdigit()) # False
-print('abc'.isnumeric()) #False
+print('abc'.isnumeric()) #False 
